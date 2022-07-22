@@ -37,4 +37,4 @@ To provide an easy and convenient method for unlocking a door by removing the ne
 ## Mentor
 
 1. Nishant Kumar
-2. Nagesh
+2. Nagesh Bansal
