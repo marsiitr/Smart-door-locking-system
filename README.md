@@ -22,6 +22,12 @@ To provide an easy and convenient method for unlocking a door by removing the ne
 * Some diodes, Resistors, Connecting wires
 * PCB designing
 
+## Applications
+
+This project has various applications in daily life. Now a days people are too busy and they want to make an advantage of resources in various aspects.
+If you are having only one key to a house then the main problem here is other person of the house may not have the keys, so by using this IOT cloud  many people can access the door lock.
+Disabled or elder people can easily access the door using their mobile phones.And it also ensures high security to the lock.
+
 ## Furter Improvements
 
 * The circuit could be made compact by PCB printing. Also the casing can be done by printing the solid work model.
@@ -37,4 +43,4 @@ To provide an easy and convenient method for unlocking a door by removing the ne
 ## Mentor
 
 1. Nishant Kumar
-2. Nagesh Bansal
+
