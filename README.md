@@ -2,7 +2,7 @@
 
 #### Open Project 2022
 
-## Abstract
+## Abstract 
 
 The aim of this project is to open a Smart door lock from any where in the world by using IOT cloud or by using Keypad. Abstract Smart Door Lock Major Qualifying Project The goals of this project were to build a modern, easy-to-use, smart door lock that allows for accessible unlocking and adds convenience, utility, and security to your home.
 
