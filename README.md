@@ -35,6 +35,13 @@ Disabled or elder people can easily access the door using their mobile phones.An
 * IOT code can be upgraded to store time of door opening in th cloud.
 * The Lock can be integrated mechanically with modern door handle.
 
+## Limitations
+
+The main problem here is if both battery and charging management got failed. Then it is difficult to open the lock. 
+Also Hackers can hack the access to get into the house. We need to keep extra access for Guests, during that period our code can be shared to other people.
+Reliance on Smart Phones. If we lost our mobile and if we dont have any back up option, then we may fall into trouble.
+It Costs Heavily and if some problem occurs we need to contact for help.
+
 ## Team Members
 
 1. Manmanth Ashtikar
@@ -43,4 +50,3 @@ Disabled or elder people can easily access the door using their mobile phones.An
 ## Mentor
 
 1. Nishant Kumar
-
