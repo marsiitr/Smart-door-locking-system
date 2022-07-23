@@ -12,7 +12,7 @@ Ever felt lazy to go and open the door when you listen to door bell? Or tired of
 
 ## Mechanical Aspect of the Design
 
-The actuator used in this project s a 12V Solenoid Lock Actuator. It is a ready-made lock like desin which just as to be fitted in the casing. A case for this has to be made. This need to be done on Solidworks and get it 3D printed. THe casing has to be as compact as possible and must fit in the PCB, actuator ,etc. Due to time constraints it has not been made.
+The actuator used in this project s a 12V Solenoid Lock Actuator. It is a ready-made lock like desin which just as to be fitted in the casing. A case for this has to be made. This need to be done on Solidworks and get it 3D printed. The casing has to be as compact as possible and must fit the PCB, actuator ,etc. Due to time constraints it has not been made.
 
 ## Electronics Aspect of the Design
 
