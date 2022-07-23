@@ -2,9 +2,6 @@
 
 #### Open Project 2022
 
-<img width="683" alt="poster" src="https://user-images.githubusercontent.com/109852675/180622918-04989aad-9bb8-4bd8-8ab0-4ddb8a6e837b.png">
-
-
 ## Abstract 
 
 The aim of this project is to open a Smart door lock from any where in the world by using IOT cloud or by using Keypad. The goals of this project was to build a modern, easy-to-use, smart door lock that allows for accessible unlocking and adds convenience, utility, and security to your home.
@@ -30,6 +27,8 @@ The actuator used in this project s a 12V Solenoid Lock Actuator. It is a ready-
 * 12V Charger
 * Some diodes, Resistors, Connecting wires
 * PCB designing
+
+<img width="674" alt="Final ckt" src="https://user-images.githubusercontent.com/109852675/180622980-73ec9dae-7ab8-48cd-b12d-f95311ac56dc.png">
 
 ### Working 
 
