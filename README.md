@@ -20,8 +20,8 @@ The actuator used in this project s a 12V Solenoid Lock Actuator. It is a ready-
 
 * Nodemcu ESP 8266 - ESP 8266 : This is used as Wi Fi module to connect the door lock through IoT. It is used to connect to Arduino IoT cloud and send the data from Cloud to Arduino (or vice versa).
 * Arduino UNO - This is used to control the door lock and take input through keypad and act on the lock. This is main controlling unit of lock.
-* Solenoid Lock Actuator - Linear solenoids basically consist of an electrical coil wound around a cylindrical tube with a ferro magnetic actuator or ìplungerî that is free to move or slide ìINî and ìOUTî of the coils body. They are useful in many applications that require an open or closed (in or out) type motion. In this case it moves IN when power is supplied and is in OUT state when thereís no power.
-* Keypad - Keypad : This is to use ëpasswordí based unlocking. Who wants to take out mobile if one is at the door!? Weíve used 4*4 keypad.
+* Solenoid Lock Actuator - Linear solenoids basically consist of an electrical coil wound around a cylindrical tube with a ferro magnetic actuator or ‚Äúplunger‚Äù that is free to move or slide ‚ÄúIN‚Äù and ‚ÄúOUT‚Äù of the coils body. They are useful in many applications that require an open or closed (in or out) type motion. In this case it moves IN when power is supplied and is in OUT state when there‚Äôs no power.
+* Keypad - Keypad : This is to use ‚Äòpassword‚Äô based unlocking. Who wants to take out mobile if one is at the door!? We‚Äôve used 4*4 keypad.
 * 5V Single relay module
 * 12V rechargeable Li-ion Battery
 * 12V Charger
@@ -32,7 +32,8 @@ The actuator used in this project s a 12V Solenoid Lock Actuator. It is a ready-
 
 First of all, a request to open door lock is sent from Arduino IoT cloud Dashboard. The request is then sent to Nodemcu ESP 8266 via internet. For this Nodemcu must be connected to Wi Fi with internet. Nodemcu then transfers the request to open the door to Arduino UNO by serial communication through Rx and Tx pins. Arduino UNO on the basis of request opens or closes the lock. The door lock automatically closes after 10 seconds of opening.
 
-![Alt text](relative/path/to/img.jpg?raw=true "Workflow")
+<img width="727" alt="Workflow" src="https://user-images.githubusercontent.com/109852675/180622842-15ab47f4-2f1a-4038-b57d-8b78ae5e9c49.png">
+
 
 ## Cost Structure
 
