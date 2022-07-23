@@ -28,6 +28,18 @@ The actuator used in this project s a 12V Solenoid Lock Actuator. It is a ready-
 * Some diodes, Resistors, Connecting wires
 * PCB designing
 
+### Working 
+
+First of all, a request to open door lock is sent from Arduino IoT cloud Dashboard. The request is then sent to Nodemcu ESP 8266 via internet. For this Nodemcu must be connected to Wi Fi with internet. Nodemcu then transfers the request to open the door to Arduino UNO by serial communication through Rx and Tx pins. Arduino UNO on the basis of request opens or closes the lock. The door lock automatically closes after 10 seconds of opening.
+
+![alt text]("C:\Users\ashti\OneDrive\Desktop\MaRS\Workflow.png")
+
+## Cost Structure
+
+	Solenoid Actuator: 500/-
+	Arduino Uno: 500/-
+	NodeMCU ESP8266: 350/-
+	Other costs (Adapters, batteries etc): 700/-
 
 ## Applications
 
