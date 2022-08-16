@@ -42,10 +42,9 @@ First of all, a request to open door lock is sent from Arduino IoT cloud Dashboa
 |Solenoid Actuator                    | 500/- |
 |:---                                 |:---   |
 |Arduino Uno                          | 500/- |
-|:---                                 |:---   |
 |NodeMCU ESP8266                      | 350/- |
-|:---                                 |:---   |
 |Other costs (Adapters, batteries etc)| 700/- |
+|Total                                | 2050/-|
 
 ## Applications
 
