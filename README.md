@@ -28,13 +28,13 @@ The actuator used in this project s a 12V Solenoid Lock Actuator. It is a ready-
 * Some diodes, Resistors, Connecting wires
 * PCB designing
 
-<img width="674" alt="Final ckt" src="https://user-images.githubusercontent.com/109852675/180622980-73ec9dae-7ab8-48cd-b12d-f95311ac56dc.png">
+<p><img width="674" alt="Final ckt" src="https://user-images.githubusercontent.com/109852675/180622980-73ec9dae-7ab8-48cd-b12d-f95311ac56dc.png"></p>
 
 ### Working 
 
 First of all, a request to open door lock is sent from Arduino IoT cloud Dashboard. The request is then sent to Nodemcu ESP 8266 via internet. For this Nodemcu must be connected to Wi Fi with internet. Nodemcu then transfers the request to open the door to Arduino UNO by serial communication through Rx and Tx pins. Arduino UNO on the basis of request opens or closes the lock. The door lock automatically closes after 10 seconds of opening.
 
-<img width="727" alt="Workflow" src="https://user-images.githubusercontent.com/109852675/180622842-15ab47f4-2f1a-4038-b57d-8b78ae5e9c49.png">
+<p><img width="727" alt="Workflow" src="https://user-images.githubusercontent.com/109852675/180622842-15ab47f4-2f1a-4038-b57d-8b78ae5e9c49.png"></p>
 
 
 ## Cost Structure
@@ -66,8 +66,8 @@ First of all, a request to open door lock is sent from Arduino IoT cloud Dashboa
 
 ## Team Members
 
-	1. Manmanth Ashtikar   (https://github.com/ashtikarmanmath)
-	2. Varanasi Chakradhar (https://github.com/Chakri2507)
+	1. [Manmanth Ashtikar](https://github.com/ashtikarmanmath)
+	2. [Varanasi Chakradhar](https://github.com/Chakri2507)
 
 ## Mentor
 
