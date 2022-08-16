@@ -66,8 +66,8 @@ First of all, a request to open door lock is sent from Arduino IoT cloud Dashboa
 
 ## Team Members
 
-	1. [Manmanth Ashtikar](https://github.com/ashtikarmanmath).
-	2. [Varanasi Chakradhar](https://github.com/Chakri2507).
+1. [Manmanth Ashtikar](https://github.com/ashtikarmanmath).
+2. [Varanasi Chakradhar](https://github.com/Chakri2507).
 
 ## Mentor
 
