@@ -39,10 +39,10 @@ First of all, a request to open door lock is sent from Arduino IoT cloud Dashboa
 
 ## Cost Structure
 
-	Solenoid Actuator: 500/-
-	Arduino Uno: 500/-
-	NodeMCU ESP8266: 350/-
-	Other costs (Adapters, batteries etc): 700/-
+|Solenoid Actuator                    | 500/- |
+|Arduino Uno                          | 500/- |
+|NodeMCU ESP8266                      | 350/- |
+|Other costs (Adapters, batteries etc)| 700/- |
 
 ## Applications
 
